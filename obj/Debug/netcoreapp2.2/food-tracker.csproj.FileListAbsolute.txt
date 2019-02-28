@@ -1,0 +1,14 @@
+C:\Users\fpian\source\repos\VueCoreTestCRUD2\food-tracker\bin\Debug\netcoreapp2.2\food-tracker.deps.json
+C:\Users\fpian\source\repos\VueCoreTestCRUD2\food-tracker\bin\Debug\netcoreapp2.2\food-tracker.runtimeconfig.json
+C:\Users\fpian\source\repos\VueCoreTestCRUD2\food-tracker\bin\Debug\netcoreapp2.2\food-tracker.runtimeconfig.dev.json
+C:\Users\fpian\source\repos\VueCoreTestCRUD2\food-tracker\bin\Debug\netcoreapp2.2\food-tracker.dll
+C:\Users\fpian\source\repos\VueCoreTestCRUD2\food-tracker\bin\Debug\netcoreapp2.2\food-tracker.pdb
+C:\Users\fpian\source\repos\VueCoreTestCRUD2\food-tracker\obj\Debug\netcoreapp2.2\food-tracker.csprojAssemblyReference.cache
+C:\Users\fpian\source\repos\VueCoreTestCRUD2\food-tracker\obj\Debug\netcoreapp2.2\food-tracker.csproj.CoreCompileInputs.cache
+C:\Users\fpian\source\repos\VueCoreTestCRUD2\food-tracker\obj\Debug\netcoreapp2.2\food-tracker.RazorAssemblyInfo.cache
+C:\Users\fpian\source\repos\VueCoreTestCRUD2\food-tracker\obj\Debug\netcoreapp2.2\food-tracker.RazorAssemblyInfo.cs
+C:\Users\fpian\source\repos\VueCoreTestCRUD2\food-tracker\obj\Debug\netcoreapp2.2\food-tracker.AssemblyInfoInputs.cache
+C:\Users\fpian\source\repos\VueCoreTestCRUD2\food-tracker\obj\Debug\netcoreapp2.2\food-tracker.AssemblyInfo.cs
+C:\Users\fpian\source\repos\VueCoreTestCRUD2\food-tracker\obj\Debug\netcoreapp2.2\food-tracker.RazorTargetAssemblyInfo.cache
+C:\Users\fpian\source\repos\VueCoreTestCRUD2\food-tracker\obj\Debug\netcoreapp2.2\food-tracker.dll
+C:\Users\fpian\source\repos\VueCoreTestCRUD2\food-tracker\obj\Debug\netcoreapp2.2\food-tracker.pdb
